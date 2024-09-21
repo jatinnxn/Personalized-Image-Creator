@@ -81,13 +81,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Contribution
 
-If you'd like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a new feature branch (git checkout -b feature/AmazingFeature).
-3. Commit your changes (git commit -m 'Add some AmazingFeature').
-4. Push to the branch (git push origin feature/AmazingFeature).
-5. Open a Pull Request.
+Contributions are welcomed!Fork the repo and submit a pull request with your changes.
 
 ## Conclusion
 
