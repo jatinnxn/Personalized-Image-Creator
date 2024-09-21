@@ -5,7 +5,7 @@ Custom Image Generator is a web-based application that allows users to generate 
 ## Features
 
 - Generate images based on textual prompts.
-- Simple and responsive UI built with Bootstrap.
+- Simple and responsive UI.
 - Displays generated images directly on the web page.
 - Ability to copy the image URL to the clipboard.
 
@@ -24,24 +24,23 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. *Clone the repository:*
 
-   bash
    git clone https://github.com/yourusername/Custom-Image-Generator.git
    cd Custom-Image-Generator
    
 
 2. *Install the required dependencies:*
 
-   Install the dependencies specified in requirements.txt:
+   Install the dependencies specified:
 
-   bash
-   pip install flask openai boltiotai
+   pip install boltiotai
    
 
 3. *Set up your OpenAI API Key:*
 
-   Export your OpenAI API key as an environment variable. On Linux/macOS, run:
+   Export your OpenAI API key as an environment variable.
 
-   bash
+   On Linux/macOS, run:
+
    export OPENAI_API_KEY='your-openai-api-key'
    
 
@@ -64,7 +63,6 @@ Before you begin, ensure you have the following installed on your local machine:
 
    Run the Flask application with the following command:
 
-   bash
    python app.py
    
 
