@@ -1,4 +1,4 @@
-# Custom Image Generator
+# Personalized Image Creator
 
 Custom Image Generator is a web-based application that allows users to generate images from textual descriptions using OpenAI's DALL-E model. The app is built using Flask for the backend and Bootstrap for the frontend. It leverages OpenAI's API to create AI-generated images based on user input and displays the generated image directly on the page.
 
